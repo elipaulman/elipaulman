@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @elipaulman, a Computer Science & Engineering student at the Ohio State University.
+- 🌱 I’m currently learning data structures and algorithms, C, low-level systems, and operating systems.
+- 💞️ I’m looking to collaborate on Java, C/C#, and Python projects
+- 📫 You can reach me on LinkedIn at: https://www.linkedin.com/in/elijahpaulman/
