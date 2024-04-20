@@ -9,7 +9,7 @@ I'm Elijah Paulman, a passionate Computer Science & Engineering student at The O
 - 📚 Always eager to learn and expand my knowledge in the field of computer science.
 
 ## GitHub Stats 📊
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elipaulman&show_icons=true&bg_color=00000000&hide_rank=true)
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elipaulman&hide_border=true&show_icons=true&bg_color=00000000&hide_rank=true)
 ![elipaulman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elipaulman&show_icons=true&hide_border=true&layout=compact&langs_count=6&count_private=true&bg_color=00000000)
 
 ## Personal Website 🌐
