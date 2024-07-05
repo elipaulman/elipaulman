@@ -20,7 +20,7 @@ You can also check out my **personal website**, [epaulman.com](https://epaulman.
 I'm passionate about coding and always excited to work on new projects. Here are a few technologies I enjoy working with:
 
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png) Java
-- ![C/C#](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C/C#
+- ![C/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C/C#
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 
 If you're interested in collaborating or just want to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elijahpaulman/)!
