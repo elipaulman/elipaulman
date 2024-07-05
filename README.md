@@ -4,8 +4,8 @@ I'm Elijah Paulman, a passionate Computer Science & Engineering student at The O
 
 ## What I'm Up To 🚀
 
-- 🌱 Currently diving deep into the world of data structures and algorithms.
-- 💻 Honing my skills in C and x86-64 Assembly, exploring low-level systems, and digging into operating systems.
+- 🌱 Currently diving deep into the world of operating systems, AI/ML, and quantum computing.
+- 💻 Honing my skills in C# and Python, exploring low-level systems, and digging into operating systems.
 - 📚 Always eager to learn and expand my knowledge in the field of computer science.
 
 ## GitHub Stats 📊
