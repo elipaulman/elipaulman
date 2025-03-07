@@ -1,28 +1,36 @@
-# Hi there! 👋
+# 👋 Hey there! I'm Elijah Paulman!
 
-I'm Elijah Paulman, a passionate Computer Science & Engineering student at The Ohio State University.
+I'm a **Computer Science & Engineering student** at **The Ohio State University**. Passionate about technology, innovation, and solving real-world problems with code.
 
-## What I'm Up To 🚀
+## 🚀 What I'm Working On
 
-- 🌱 Currently diving deep into the world of operating systems, AI/ML, and quantum computing.
-- 💻 Honing my skills in C# and Python, exploring low-level systems, and digging into operating systems.
-- 📚 Always eager to learn and expand my knowledge in the field of computer science.
+- 🌱 **Exploring cutting-edge technologies** like **AI/ML**, **Backend Engineering**, and **Quantum Computing**.
+- 💻 **Building projects** and enhancing my skills in **C#**, **Python**, and **Java**. 
+- 🤖 Actively exploring **machine learning applications**, from **AI** to **data science**.
+- 🧠 Always **learning and experimenting** with new tools, frameworks, and tech to push my limits.
 
-## GitHub Stats 📊
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elipaulman&hide_border=true&show_icons=true&bg_color=00000000&hide_rank=true)
-![elipaulman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elipaulman&show_icons=true&hide_border=true&layout=compact&langs_count=6&count_private=true&bg_color=00000000)
+## 📊 GitHub Stats
 
-## Personal Website 🌐
-You can also check out my **personal website**, [epaulman.com](https://epaulman.com), to learn more about me and my projects.
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elipaulman&hide_border=true&show_icons=true&bg_color=00000000&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elipaulman&show_icons=true&hide_border=true&layout=compact&langs_count=6&count_private=true&bg_color=00000000)
 
-## Let's Collaborate! 🤝
+## 🌐 Personal Website
 
-I'm passionate about coding and always excited to work on new projects. Here are a few technologies I enjoy working with:
+Take a deeper dive into my work and journey by visiting my **[personal website](https://epaulman.com)**. It’s packed with info on my projects, passion, and more!
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png) Java
-- ![C/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C/C#
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+## 🛠️ Technologies I Love
 
-If you're interested in collaborating or just want to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elijahpaulman/)!
+I’m always exploring new ways to innovate and build impactful solutions. Here's a snapshot of the tools I’m currently working with:
 
-Looking forward to connecting with you! 😊
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png) **Java** - For building robust, scalable applications.
+- ![C/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) **C/C#** - For both performance-driven apps and game development.
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** - My go-to for AI, ML, data science, and automation projects.
+
+## 📫 Let's Collaborate
+
+I’m always excited to collaborate and brainstorm on interesting projects. If you’re interested in working together or want to chat about technology, feel free to connect with me!
+
+- 💬 **LinkedIn**: [Elijah Paulman](https://www.linkedin.com/in/elijahpaulman/)
+- 📧 **Email**: [paulman.2@osu.edu](mailto:paulman.2@osu.edu)
+
+Looking forward to connecting and creating something awesome with you! 😊
