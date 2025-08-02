@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Elijah_Paulman-blue?style=flat&logo=linkedin">
   </a>
   &nbsp;
-  <a href="mailto:paulman.2@osu.edu">
-    <img src="https://img.shields.io/badge/Email-paulman.2%40osu.edu-red?style=flat&logo=gmail">
+  <a href="mailto:eli.paulman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eli.paulman%40gmail.com-red?style=flat&logo=gmail">
   </a>
 </p>
 
