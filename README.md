@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=👋+Hey+there!+I'm+Elijah+Paulman!;💻+CS+%26+Engineering+Student;🚀+Developer+%26+Innovator;🔍+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
+<!-- 🌐 Prominent Website Banner -->
+<p align="center">
+  <a href="https://epaulman.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-epaulman.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elipaulman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   &nbsp;
@@ -51,31 +58,29 @@
 
 <div align="center">
 
-**1. Attendance Processor (CSV Processor)**
-<br>
-Automated CSV processing tool that streamlines educational institution reporting. Developed for the Greater Ohio Virtual School.
-<br>
-Tech used: Python, Flask, Pandas
-<br>
-<a href="https://govs-csv-processor.onrender.com/" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+**1. Repo Rover**  
+Elasticsearch, LangChain, Flask, Python, Next.js, OpenAI  
+• Built a web AI assistant with a RAG pipeline to provide repository code explanations, security scans, and insights.  
+• Implemented hybrid semantic and keyword search with vector embeddings to generate contextual, cited answers.  
+<a href="https://github.com/elipaulman/Repo_Rover" target="_blank" rel="noopener noreferrer">View Repo</a>  
 <br><br>
 
-**2. Legends of Zelda**
-<br>
-NES-style 2D adventure game featuring classic dungeon exploration mechanics.
-<br>
-Tech used: C#, MonoGame Framework
-<br>
-<a href="https://github.com/elipaulman/Legends-Of-Zelda" target="_blank" rel="noopener noreferrer">View Repo</a>
+**2. Attendance Processor (CSV Processor)**  
+Automated CSV processing tool that streamlines educational institution reporting. Developed for the Greater Ohio Virtual School.  
+Tech used: Python, Flask, Pandas  
+<a href="https://govs-csv-processor.onrender.com/" target="_blank" rel="noopener noreferrer">View Live Demo</a>  
 <br><br>
 
-**3. Alumni Social Platform (LMCC)**
-<br>
-Winner of JP Morgan Chase Code for Good - Networking platform for LMCC community.
-<br>
-Tech used: MERN Stack, Tailwind CSS
-<br>
-<a href="https://alumni-network-platform-9aov.onrender.com" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+**3. Legends of Zelda**  
+NES-style 2D adventure game featuring classic dungeon exploration mechanics.  
+Tech used: C#, MonoGame Framework  
+<a href="https://github.com/elipaulman/Legends-Of-Zelda" target="_blank" rel="noopener noreferrer">View Repo</a>  
+<br><br>
+
+**4. Alumni Social Platform (LMCC)**  
+Winner of JP Morgan Chase Code for Good – Networking platform for LMCC community.  
+Tech used: MERN Stack, Tailwind CSS  
+<a href="https://alumni-network-platform-9aov.onrender.com" target="_blank" rel="noopener noreferrer">View Live Demo</a>  
 <br><br>
 </div>
 
@@ -99,14 +104,14 @@ Tech used: MERN Stack, Tailwind CSS
 
 <div align="center">
   <blockquote>
-    "The only way to do great work is to love what you do." - Steve Jobs
+    "The only way to do great work is to love what you do." – Steve Jobs
   </blockquote>
-  
+
   <br>
-  
+
   Thanks for stopping by! 👋
-  
+
   <br>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving Footer" />
 </div>
