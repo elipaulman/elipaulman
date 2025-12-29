@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=👋+Hey+there!+I'm+Elijah+Paulman!;💻+CS+%26+Engineering+Student;🚀+Developer+%26+Innovator;🔍+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=700&lines=👋+Hey+there!+I'm+Elijah+Paulman!;🍎+Software+Quality+Engineer+at+Apple;💻+Computer+Science+%26+Engineering+Grad;🔍+Quality+%7C+Automation+%7C+Engineering" alt="Typing SVG" />
 </h1>
 
 <!-- 🌐 Prominent Website Banner -->
@@ -26,7 +26,9 @@
 </p>
 
 <p align="center">
-  <b>Computer Science & Engineering student</b> at <b>The Ohio State University</b> | Passionate about leveraging technology to build innovative solutions.
+  <b>Software Quality Engineer</b> at <b>Apple</b> | Computer Science & Engineering graduate from <b>The Ohio State University</b> (Dec 2025)
+  <br>
+  Focused on building reliable, scalable, and high-quality software systems.
 </p>
 
 <div align="center">
