@@ -1,119 +1,91 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=700&lines=👋+Hey+there!+I'm+Elijah+Paulman!;🍎+Software+Quality+Engineer+at+Apple;💻+Computer+Science+%26+Engineering+Grad;🔍+Quality+%7C+Automation+%7C+Engineering" alt="Typing SVG" />
-</h1>
+# 👋 Hey, I’m Elijah Paulman
 
-<!-- 🌐 Prominent Website Banner -->
-<p align="center">
-  <a href="https://epaulman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-epaulman.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
-  </a>
+**Software Quality Engineer at Apple**  
+Computer Science & Engineering Graduate, The Ohio State University (Dec 2025)
+
+I build reliable, scalable software with a strong focus on quality, automation, and engineering rigor.  
+I care about systems that work correctly, not just ones that ship.
+
+---
+
+## 🔗 Links
+
+- Portfolio: https://epaulman.com  
+- GitHub: https://github.com/elipaulman  
+- LinkedIn: https://www.linkedin.com/in/elijahpaulman  
+- Email: eli.paulman@gmail.com  
+
+---
+
+## 🧠 Focus Areas
+
+- Software quality and test automation  
+- Backend and full-stack development  
+- CI/CD, reliability, and engineering best practices  
+- Building systems that scale and fail gracefully  
+
+---
+
+## 🛠️ Technologies
+
+**Languages**  
+Python, Java, C#, JavaScript, SQL, C
+
+**Frameworks and Tools**  
+React, Node.js, Flask, MongoDB, Git, GitHub, AWS
+
+**Visual overview**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,react,nodejs,aws,git,github,mongo" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elipaulman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  &nbsp;
-  <a href="https://epaulman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Personal_Website-epaulman.com-blue?style=flat&logo=google-chrome">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/elijahpaulman/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Elijah_Paulman-blue?style=flat&logo=linkedin">
-  </a>
-  &nbsp;
-  <a href="mailto:eli.paulman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eli.paulman%40gmail.com-red?style=flat&logo=gmail">
-  </a>
-</p>
+---
 
-<p align="center">
-  <b>Software Quality Engineer</b> at <b>Apple</b> | Computer Science & Engineering graduate from <b>The Ohio State University</b> (Dec 2025)
-  <br>
-  Focused on building reliable, scalable, and high-quality software systems.
-</p>
+## 🚀 Selected Projects
 
-<div align="center">
-  <a href="https://github.com/elipaulman">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=elipaulman&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-  </a>
-</div>
+### Repo Rover  
+**Elasticsearch, LangChain, Flask, Python, Next.js**  
+AI-powered repository analysis tool using a RAG pipeline to explain code, identify risks, and surface insights.  
+- Hybrid semantic and keyword search with vector embeddings  
+- Contextual answers with citations  
+GitHub: https://github.com/elipaulman/Repo_Rover
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <a href="https://github.com/elipaulman">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elipaulman&hide_border=true&show_icons=true&bg_color=00000000&hide_rank=true&text_color=white" alt="Elijah's GitHub Stats">
-  </a>
-  <a href="https://github.com/elipaulman">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elipaulman&show_icons=true&hide_border=true&layout=compact&langs_count=6&count_private=true&bg_color=00000000&text_color=white" alt="Top Languages">
-  </a>
-</div>
+### Attendance Processor (CSV Processor)  
+**Python, Flask, Pandas**  
+Automated CSV processing tool developed for the Greater Ohio Virtual School.  
+- Streamlines reporting workflows  
+- Reduces manual data errors  
+Live Demo: https://govs-csv-processor.onrender.com
 
-## 🛠️ Technologies & Tools
+---
 
-<p align="center">
-  I'm proficient in a variety of technologies, including:
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,react,nodejs,aws,git,github,mongo" alt="Technologies and Tools" />
-</p>
-
-## 🚀 Top Projects
-
-<div align="center">
-
-**1. Repo Rover**  
-Elasticsearch, LangChain, Flask, Python, Next.js, OpenAI  
-• Built a web AI assistant with a RAG pipeline to provide repository code explanations, security scans, and insights.  
-• Implemented hybrid semantic and keyword search with vector embeddings to generate contextual, cited answers.  
-<a href="https://github.com/elipaulman/Repo_Rover" target="_blank" rel="noopener noreferrer">View Repo</a>  
-<br><br>
-
-**2. Attendance Processor (CSV Processor)**  
-Automated CSV processing tool that streamlines educational institution reporting. Developed for the Greater Ohio Virtual School.  
-Tech used: Python, Flask, Pandas  
-<a href="https://govs-csv-processor.onrender.com/" target="_blank" rel="noopener noreferrer">View Live Demo</a>  
-<br><br>
-
-**3. Legends of Zelda**  
+### Legends of Zelda  
+**C#, MonoGame Framework**  
 NES-style 2D adventure game featuring classic dungeon exploration mechanics.  
-Tech used: C#, MonoGame Framework  
-<a href="https://github.com/elipaulman/Legends-Of-Zelda" target="_blank" rel="noopener noreferrer">View Repo</a>  
-<br><br>
+GitHub: https://github.com/elipaulman/Legends-Of-Zelda
 
-**4. Alumni Social Platform (LMCC)**  
-Winner of JP Morgan Chase Code for Good – Networking platform for LMCC community.  
-Tech used: MERN Stack, Tailwind CSS  
-<a href="https://alumni-network-platform-9aov.onrender.com" target="_blank" rel="noopener noreferrer">View Live Demo</a>  
-<br><br>
-</div>
+---
 
-## 🌐 Connect With Me
+### Alumni Social Platform (LMCC)  
+**MERN Stack, Tailwind CSS**  
+Winner of JPMorgan Chase Code for Good.  
+Built a networking platform for the LMCC alumni community.  
+Live Demo: https://alumni-network-platform-9aov.onrender.com
 
-<p align="center">
-  Let's connect!
-  <br><br>
-  <a href="https://www.linkedin.com/in/elijahpaulman/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:paulman.2@osu.edu">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://epaulman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-%233781da.svg?&style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+---
 
-<div align="center">
-  <blockquote>
-    "The only way to do great work is to love what you do." – Steve Jobs
-  </blockquote>
+## 🌱 Interests
 
-  <br>
+- Software quality at scale  
+- Test automation and developer tooling  
+- Systems engineering and reliability  
+- Sustainability-focused engineering projects  
 
-  Thanks for stopping by! 👋
+---
 
-  <br>
+> “The only way to do great work is to love what you do.” – Steve Jobs
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving Footer" />
-</div>
+Thanks for stopping by 👋
