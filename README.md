@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Elijah Paulman
 
-**Software Quality Engineer at Apple**  
+**Tools & Automation Software Quality Engineer @ Apple**  
 Computer Science & Engineering Graduate, The Ohio State University (Dec 2025)
 
 I build reliable, scalable software with a strong focus on quality, automation, and engineering rigor.  
